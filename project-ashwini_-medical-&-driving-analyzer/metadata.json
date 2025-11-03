@@ -1,7 +1,0 @@
-{
-  "name": "Project Ashwini: Medical & Driving Analyzer",
-  "description": "An AI-powered health and safety co-pilot to analyze medical reports, get full-body insights, detect driving incidents, and provide emergency assistance.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
